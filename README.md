@@ -1,5 +1,5 @@
 - 👋 Hi, I’m María
-- 💻 Currently learning Software Engineer at Academy
+- 💻 Currently Software Engineer Trainee at Academy
 - 📊 Previous experience as data analyst 
 - 📫 Feel free to [email me](mailto:mtens17@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/maria-ten/)!
 
