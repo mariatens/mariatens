@@ -6,7 +6,7 @@
 ## 💻 GitHub Summary
 <hr>
 
-![María Ten's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariatens)
+![María Ten's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariatens&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatens&layout=compact&theme=midnight-purple&card_width=500)
 
