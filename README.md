@@ -18,7 +18,7 @@
     <tbody align="center">
     <tr>
       <td><a href= "https://chronoline-game.netlify.app/" target="_blank"><b>Chronoline Game<b></a></td>
-      <td><a href="https://github.com/lsimonar/chronoline"><b>React, TypeScript</b></a></td>
+      <td><b>Private</b></td>
       <td><b>N/A</b></a></td>
     </tr>
   </tbody>
