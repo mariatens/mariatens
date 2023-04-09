@@ -35,13 +35,6 @@
       <td><a href="https://github.com/DidierOsindero/paste-bin-frontend"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/DidierOsindero/paste-bin-api"><b>Express, Node.js, PostgreSQL</b></a></td>
     </tr>
-    <tbody align="center">
-    <tr>
-       <td><a href="https://mariatens-todo.netlify.app/" target="_blank"><b>To Do App<b></a></td>
-      <td><a href="https://github.com/mariatens/todo-front-end"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/mariatens/todo-back-end"><b>Express, Node.js, PostgreSQL</b></a></td>
-    </tr>
-  </tbody>
 
 </table>
 
