@@ -1,6 +1,4 @@
-- 👋 Hi, I’m María
-- 💻 Currently Software Engineer Trainee at Academy
-- 📊 Previous experience as data analyst 
+- 👋 Hi, I’m María, Software Engineer
 - 📫 Feel free to [email me](mailto:mtens17@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/maria-ten/)!
 
 ## 🖥️ Featured projects
