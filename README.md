@@ -1,4 +1,4 @@
-- 👋 Hi, I’m María, Software Engineer
+- 👋 Hi, I’m María
 - 📫 Feel free to [email me](mailto:mtens17@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/maria-ten/)!
 
 ## 🖥️ Featured projects
