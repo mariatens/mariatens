@@ -1,4 +1,4 @@
-- 👋 Hi, I’m María
+- 👋 Hi, I’m María, Data Analyst with Software Engineering background passionate about technology and social good
 - 📫 Feel free to [email me](mailto:mtens17@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/maria-ten/)!
 
 ## 🖥️ Featured projects
