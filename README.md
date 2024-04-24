@@ -27,13 +27,6 @@
       <td><b>N/A</b></a></td>
     </tr>
   </tbody>
-  <tbody align="center">
-    <tr>     
-      <td><a href="https://didier-maria-pastebin.netlify.app" target="_blank"><b>Paste Bin<b></a></td>
-      <td><a href="https://github.com/DidierOsindero/paste-bin-frontend"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/DidierOsindero/paste-bin-api"><b>Express, Node.js, PostgreSQL</b></a></td>
-    </tr>
-
 </table>
 
 <!---
